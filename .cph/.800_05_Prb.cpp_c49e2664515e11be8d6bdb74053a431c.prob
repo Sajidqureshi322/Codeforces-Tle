@@ -1,0 +1,1 @@
+{"name":"Local: 800_05_Prb","url":"c:\\Users\\sajid\\Desktop\\CodeForces_Tle\\800_05_Prb.cpp","tests":[{"id":1723485930488,"input":"6\n3\n1 2 3\n5\n1 3 2 5 4\n5\n5 4 3 2 1\n3\n3 1 2\n4\n2 3 1 4\n5\n5 1 2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sajid\\Desktop\\CodeForces_Tle\\800_05_Prb.cpp","group":"local","local":true}
