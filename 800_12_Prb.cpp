@@ -8,30 +8,23 @@ int main()
     while(t--){
         int n;
         cin >> n;
-        vector<int> a(n + 1);
-        for (int i = 1; i <= n; i++) {
-            cin >> a[i];
+        vector<int> b(n),a;
+        for(int i = 0; i < n; i++){
+            cin >> b[i];
         }
-        if (a[1] != n) {
-            cout << "NO" << '\n';
-            continue;
-        }
-        vector<int> b;
-        for (int i = n; i >= 1; i--) {
-            while (b.size() < a[i]) {
-                b.push_back(i);
+        a.push_back(b[0]);
+        for(int i = 1; i< n; i++){
+            if(b[i] >= b[i-1]){
+                a.push_back(b[i]);
+            }
+            else{
+                a.push_back(b[i]);
+                a.push_back(b[i]);
             }
         }
-        bool meow = true;
-        for (int i = 1; i <= n; i++) {
-            if (a[i] != b[i - 1]) {
-                cout << "NO" << '\n';
-                meow = false;
-                break;
-            }
-        }
-        if (meow) {
-            cout << "YES" << '\n';
+        cout << a.size() << endl;
+        for(auto i: a){
+            cout << i << " ";
         }
     }
  return 0;
