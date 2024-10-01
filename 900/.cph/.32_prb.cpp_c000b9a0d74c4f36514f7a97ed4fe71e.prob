@@ -1,0 +1,1 @@
+{"name":"Local: 32_prb","url":"c:\\Users\\sajid\\Desktop\\CodeForces_Tle\\900\\32_prb.cpp","tests":[{"id":1727797469030,"input":"7\n1\n2\n3\n12\n12345\n15116544\n387420489\n","output":"0\n-1\n2\n-1\n-1\n12\n36\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sajid\\Desktop\\CodeForces_Tle\\900\\32_prb.cpp","group":"local","local":true}

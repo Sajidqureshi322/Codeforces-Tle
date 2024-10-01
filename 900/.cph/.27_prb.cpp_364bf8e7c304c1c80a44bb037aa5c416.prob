@@ -1,0 +1,1 @@
+{"name":"Local: 27_prb","url":"c:\\Users\\sajid\\Desktop\\CodeForces_Tle\\900\\27_prb.cpp","tests":[{"id":1727714861883,"input":"6\n2\n3\n4\n5\n998244353\n1099511627776\n","output":"NO\nYES\nNO\nYES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sajid\\Desktop\\CodeForces_Tle\\900\\27_prb.cpp","group":"local","local":true}

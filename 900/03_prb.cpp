@@ -11,7 +11,6 @@ int main()
 
         long long minSum = k *(k+1)/2;
         long long maxSum = n*(n+1)/2 - (n-k) * (n-k+1)/2;
-
         if(x < minSum || x > maxSum){
             cout << "NO" << endl;
         }
