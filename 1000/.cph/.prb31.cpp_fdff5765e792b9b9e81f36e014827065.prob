@@ -1,0 +1,1 @@
+{"name":"Local: prb31","url":"c:\\Users\\sajid\\Desktop\\CodeForces_Tle\\1000\\prb31.cpp","tests":[{"id":1729611150701,"input":"7\nabacaba\n","output":"YES\n2 5\n"},{"id":1729611157562,"input":"6\naabcfg\n","output":"NO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sajid\\Desktop\\CodeForces_Tle\\1000\\prb31.cpp","group":"local","local":true}
